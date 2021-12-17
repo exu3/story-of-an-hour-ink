@@ -12,6 +12,10 @@ h1 {
   margin-bottom: -10px;
 }
 
+.image {
+  max-width: 100%;
+}
+
 .subtitle {
   text-align: center;
 }
